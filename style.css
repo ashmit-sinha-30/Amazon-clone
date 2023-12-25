@@ -1,0 +1,163 @@
+*{
+    margin: 0;
+    font-family: Arial, Helvetica, sans-serif;
+    border: border-box;
+}
+
+.navbar{
+    height: 60px;
+    background-color: #0f1111;
+    color: white;
+    display: flex;
+    align-items: center;
+    justify-content: space-evenly;
+}
+
+.nav-logo{
+    background-image: url(amazon_logo.png);
+    background-size: cover;
+    height: 50px;
+    width: 110px;
+}
+
+
+.border{
+    border: 1.5px solid transparent;
+}
+
+.border:hover{
+    border: 1.5px solid white;
+}
+
+
+.nav-address{
+    height: 40px;
+    width: 90px;
+    padding-top: 10px;
+}
+
+.nav-add-logo{
+   display: flex;
+   align-items: center;
+}
+
+.text1{
+    color: #CCCCCC;
+    font-size: 0.80rem;
+    margin-left: 15px;
+}
+
+.text2{
+    color: #FFFFFF;
+    font-size: 1rem;
+    margin-left: 3px;
+    font-weight: 700;
+}
+
+
+.search{
+    display: flex;
+    width: 600px;
+    height: 40px;
+    border: 2px solid transparent;
+}
+
+.search:hover{
+    border: 2px solid #febd68;
+}
+
+.searchbar{
+    width: 100%;
+    border: none;
+}
+
+.sel{
+    border-top-left-radius: 10%;
+    border-bottom-left-radius: 10%;
+    text-align: center;
+    font-size: 10px;
+    background-color: rgba(235, 229, 229, 0.93);
+    width: 50px;
+    height: 40px;
+    border-top: none;
+    border-bottom: none;
+}
+
+.s-logo{
+    height: 40px;
+    width: 45px;
+    border-top-right-radius: 10%;
+    border-bottom-right-radius: 10%;
+    background-color: #febd68;
+    font-size: 1.15rem;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    color: #0f1111;
+}
+
+.lang{
+    height: 50px;
+    width: 60px;
+    background-color: #0f1111;
+    text-align: center;
+}
+
+.lang1{
+    height: 50px;
+    width: 40px;
+    background-color: #0f1111;
+    border: none;
+    color: white;
+}
+
+.acc{
+    height: 40px;
+    width: 135px;
+    padding-top: 10px;
+}
+
+.txt1{
+    color: #FFFFFF;
+    font-size: 0.75rem;
+}
+
+.txt2{
+    color: #FFFFFF;
+    font-size: 1rem;
+    font-weight: 700;
+}
+
+.return{
+    height: 40px;
+    width: 80px;
+    padding-top: 10px;
+}
+
+.tt1{
+    color: #FFFFFF;
+    font-size: 0.75rem;
+}
+
+.tt2{
+    color: #FFFFFF;
+    font-size: 1rem;
+    font-weight: 700;
+}
+
+.cart{
+    height: 50px;
+    width: 80px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.logoc{
+    font-size: 30px;
+}
+
+.cart1{
+    font-size: 14px;
+    font-weight: 700;
+}
