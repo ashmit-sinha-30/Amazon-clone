@@ -446,6 +446,12 @@ ul a:hover{
     color: white;
 }
 
+.panel4{
+    padding-top: 30px;
+    height: 80px;
+    background-color: #0F1111;
+}
+
 .pages{
     background-color: #0F1111;
     height: 20px;
@@ -467,10 +473,4 @@ ul a:hover{
     height: 20px;
     font-size: 0.75rem;
     color: #DDDDDD;
-}
-
-.panel4{
-    padding-top: 25px;
-    height: 80px;
-    background-color: #0F1111;
 }
