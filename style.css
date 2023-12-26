@@ -6,7 +6,7 @@
 
 .navbar{
     height: 60px;
-    background-color: #0f1111;
+    background-color: #151717;
     color: white;
     display: flex;
     align-items: center;
@@ -160,4 +160,105 @@
 .cart1{
     font-size: 14px;
     font-weight: 700;
+}
+
+
+.panel{
+    height: 40px;
+    background-color: #222f3d;
+    color: white;
+    display: flex;
+    align-items: center;
+}
+
+.all{
+    margin-left: 11px;
+    width: 60px;
+    height: 39px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    justify-content: space-evenly;
+    font-size: 0.95rem;
+    font-weight: 700;
+}
+
+.panel-2{
+    width: 100%;
+    display: flex;
+    font-size: 0.9rem;
+}
+
+.centre{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.fresh{
+    height: 40px;
+    width: 50px;
+    margin-left: 2px;
+}
+
+.amt{
+    height: 40px;
+    width: 120px;
+    margin-left: 2px;
+}
+
+.sell{
+    height: 40px;
+    width: 40px;
+    margin-left: 2px;
+}
+
+.gc{
+    height: 40px;
+    width: 80px;
+    margin-left: 2px;
+}
+
+.pay{
+    height: 40px;
+    width: 100px;
+    margin-left: 2px;
+}
+
+.buy{
+    height: 40px;
+    width: 80px;
+    margin-left: 2px;
+}
+
+.today{
+    height: 40px;
+    width: 100px;
+    margin-left: 2px;
+}
+
+.gi{
+    height: 40px;
+    width: 80px;
+    margin-left: 2px;
+}
+
+.coupon{
+    height: 40px;
+    width: 75px;
+    margin-left: 2px;
+}
+
+.health{
+    height: 40px;
+    width: 260px;
+    margin-left: 2px;
+}
+
+.panel-img{
+    background-image: url(https://m.media-amazon.com/images/G/31/Gateway_IN/testing/NewLaunches_400x39._CB593645585_.jpg);
+    background-size: cover;
+    height: 38px;
+    width: 600px;
+    margin-right: 0.1%;
 }
