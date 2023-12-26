@@ -262,3 +262,56 @@
     width: 600px;
     margin-right: 0.1%;
 }
+
+.herosection{
+    background-image: url(hero_image.jpg);
+    background-size: cover;
+    display: flex;
+    height: 350px;
+    justify-content: center;
+    align-items: flex-end;
+}
+
+.heromsg{
+    background-color: #f5f6f6;
+    color: #0F1111;
+    width: 96%;
+    height: 40px;
+    font-size: 0.85rem;
+    margin-bottom: 25px;
+}
+
+.heromsg a{
+    color: #007185;
+}
+
+.shop-section{
+    display:flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    justify-content: space-evenly;
+    background-color: #e2e7e6;
+}
+.box{
+    height: 415px;
+    width: 23%;
+    background-color: #f5f6f6;
+    margin-top: 25px;
+}
+
+.box-contents{
+    margin-top: 15px;
+    padding-left: 20px;
+    padding-right: 20px;
+}
+
+.box-img{
+    height: 300px;
+    background-size: cover;
+    margin-top: 1rem;
+    margin-bottom: 1rem;
+}
+
+.see{
+    color: #007185;
+}
